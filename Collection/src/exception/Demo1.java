@@ -12,6 +12,8 @@ public class Demo1{
 		System.out.println("Divide by zero is not possible");
 	}
 	System.out.println("Program Ended");
+	
+	
 }
 
 }
